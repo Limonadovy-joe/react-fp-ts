@@ -1,0 +1,27 @@
+{
+  "name": "react-tsx-starter",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@popperjs/core": "2.11.8",
+    "@types/react": "18.2.29",
+    "@types/react-dom": "18.2.14",
+    "classnames": "2.3.2",
+    "features": "^0.1.0",
+    "fp-ts": "2.16.1",
+    "io-ts": "2.2.20",
+    "popper.js": "1.16.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "types": "0.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "react-scripts-ts": "latest"
+  }
+}

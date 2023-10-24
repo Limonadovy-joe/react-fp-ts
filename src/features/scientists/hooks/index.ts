@@ -1,0 +1,1 @@
+export { useFilterScientists } from './useFilterScientists';
